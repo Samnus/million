@@ -1,0 +1,11 @@
+Menú de bienvenida y opciones: Al principio, el programa te da la bienvenida al "Generador de números aleatorios UMG" y te muestra un menú con cuatro opciones.
+
+    Elección de opción: Luego de mostrar el menú, el programa te pide que elijas una opción escribiendo el número correspondiente y presionando Enter.
+
+    Ejecución de la opción elegida:
+        Si elige la opción 1: el programa generará números aleatorios y los guardará en un archivo llamado "random_numbers.txt".
+        Si elige la opción 2: el programa leerá los números aleatorios del archivo "random_numbers.txt", los mezclará y luego los guardará en un archivo llamado "shuffled_numbers.txt".
+        Si elige la opción 3: el programa leerá los números aleatorios del archivo "random_numbers.txt", los ordenará y luego los guardará en un archivo llamado "sorted_numbers.txt".
+        Si elige la opción 4: el programa simplemente terminará y se cerrará.
+
+    Fin del programa: una vez que se ejecuta una opción, el programa mostrará un mensaje apropiado y luego finalizará.
